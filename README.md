@@ -6,7 +6,7 @@ um eine einfache Website zu erstellen und online zu deployen.
 ---
 
 ## 🌐 Live Website
-https://firsttwebsite.netlify.app/
+https://firsttwebsite.netlify.app
 
 ---
 
